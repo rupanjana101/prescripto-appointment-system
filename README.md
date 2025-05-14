@@ -1,5 +1,5 @@
 Preacripto Doctor Appointment Booking System 🧑‍⚕️🩺
-A full-stack web application for book appointments with trusted doctors with speciality.
+A full-stack web application for booking appointments with trusted doctors with speciality.
 ## Features
 * Fully responsive
 * User and Admin roles
