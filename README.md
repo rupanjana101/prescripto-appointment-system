@@ -1,4 +1,4 @@
-Preacripto Doctor Appointment Booking System
+Preacripto Doctor Appointment Booking System 🧑‍⚕️🩺
 A full-stack web application for book appointments with trusted doctors with speciality.
 ## Features
 * Fully responsive
@@ -15,4 +15,25 @@ A full-stack web application for book appointments with trusted doctors with spe
 - MongoDb
 - Git
 ### Installation
-!. Clone the repository: 
+!. Clone the repository: https://github.com/rupanjana101/prescripto-appointment-system.git
+2. Install dependencies:
+# For Frontend
+cd ../frontend 
+npm install 
+# For Backend
+cd backend
+npm install
+# For Admin
+cd ../admin
+npm install
+3. Run the app
+# Backend
+cd backend
+npm start
+# Frontend
+cd frontend
+npm start
+# Admin
+cd admin
+npm start
+
